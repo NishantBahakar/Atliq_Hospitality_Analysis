@@ -1,5 +1,4 @@
 # Atliq_Hospitality_Analysis
-As a part of my learning I participated in CodeBasics Resume Project Challenge
 
 
 # Introduction
